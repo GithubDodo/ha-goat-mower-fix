@@ -26,7 +26,7 @@ It swaps exactly this one command for the GOAT O1200 device classes `2i0fns` and
 Nothing else changes; the built-in Ecovacs integration stays as it is. No account data, no network access, no configuration
 besides one line.
 
-The proper fix belongs into deebot-client and has been proposed there. **As soon as deebot-client contains it, this
+The proper fix belongs into deebot-client and has been proposed there: [DeebotUniverse/client.py#1969](https://github.com/DeebotUniverse/client.py/pull/1969). **As soon as deebot-client contains it, this
 integration is no longer needed**: it then only logs that the fix is not needed, and you can remove it.
 
 ## Installation
