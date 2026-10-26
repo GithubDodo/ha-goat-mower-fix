@@ -8,7 +8,7 @@ This integration only swaps that one command in the device capabilities of these
 The built-in Ecovacs integration itself stays untouched. Once deebot-client handles the mower
 correctly, the swap no longer applies (a warning is logged) and this integration can be removed.
 
-Upstream fix: https://github.com/DeebotUniverse/client.py (pull request "fix(2i0fns): send clean ...").
+Upstream fix: https://github.com/DeebotUniverse/client.py/pull/1969
 """
 
 from __future__ import annotations
