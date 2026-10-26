@@ -1,0 +1,11 @@
+{
+  "domain": "goat_mower_fix",
+  "name": "GOAT mower start fix (Ecovacs O1200)",
+  "codeowners": ["@GithubDodo"],
+  "after_dependencies": ["ecovacs"],
+  "documentation": "https://github.com/GithubDodo/ha-goat-mower-fix",
+  "issue_tracker": "https://github.com/GithubDodo/ha-goat-mower-fix/issues",
+  "iot_class": "cloud_push",
+  "requirements": [],
+  "version": "1.0.0"
+}
